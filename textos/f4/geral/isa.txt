@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Isaías
 \*name-long
 \name-short
@@ -648,7 +648,7 @@ E vim até a profetisa, que concebeu e teve um filho; e o SENHOR me disse: Chama
 \v Is.8.4
 porque antes que o menino saiba falar “papai” ou “mamãe”, as riquezas de Damasco e os despojos de Samaria serão tomados pelo rei da Assíria.
 \v Is.8.5
-E o SENHOR continuou a a falar comigo, dizendo:
+E o SENHOR continuou a falar comigo, dizendo:
 \v Is.8.6
 Dado que este povo rejeitou as águas de Siloé, que correm calmamente, e se alegrou com Resim e com o filho de Remalias,
 \v Is.8.7
@@ -656,7 +656,7 @@ Por isso eis que o Senhor fará subir sobre eles as águas do rio fortes e impet
 \added
 que é
 \*added
- o rei da Assíria com todo o sua glória; e subirá sobre todas as suas correntes de águas, e transbordará por todas as suas margens;
+ o rei da Assíria com toda a sua glória; e subirá sobre todas as suas correntes de águas, e transbordará por todas as suas margens;
 \v Is.8.8
 E passará por Judá, e o inundará, chegando até o pescoço; e ao estender suas asas, encherá a largura de tua terra, ó Emanuel.
 \v Is.8.9
@@ -5665,7 +5665,7 @@ tendo
 \*added
  caldo de coisas abomináveis em suas vasilhas.
 \v Is.65.5
-E dizem: Fica onde estás, e não te aproximes de de mim; pois sou mais santo do que tu; Estes são fumaça em minhas narinas, e fogo que arde o dia todo.
+E dizem: Fica onde estás, e não te aproximes de mim; pois sou mais santo do que tu; Estes são fumaça em minhas narinas, e fogo que arde o dia todo.
 \v Is.65.6
 Eis que está escrito diante de mim: Não me calarei; mas eu pagarei, e lhes pagarei diretamente e por completo,
 \fn

@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Evangelho Segundo Marcos
 \*name-long
 \name-short
@@ -651,6 +651,7 @@ Jesus
  saísse do território deles.
 \v Mc.5.18
 E quando ele entrava no barco, o que estivera endemoninhado rogou-lhe que estivesse com ele.
+\v Mc.5.19
 Porém 
 {n4}\added
 Jesus 
@@ -2235,7 +2236,8 @@ Mas depois que eu houver ressuscitado, irei adiante de vós para a Galileia”.
 E Pedro lhe disse: “Ainda que todos achem motivo de tropeço, eu não 
 \added
 acharei
-\*added”.
+\*added
+”.
 \v Mc.14.30
 Jesus lhe disse: “Em verdade te digo, que hoje, nesta noite, antes que o galo cante duas vezes, tu me negarás 
 três vezes”.
@@ -2324,7 +2326,7 @@ Mas ele, largando o lençol, fugiu
 {tr|rp} deles
  nu.
 \v Mc.14.53
-E levaram Jesus ao sumo sacerdote; e runiram-se
+E levaram Jesus ao sumo sacerdote; e reuniram-se
 {tr|rp} com ele
  todos os chefes dos sacerdotes, os anciãos, e os escribas.
 \v Mc.14.54
@@ -2380,7 +2382,7 @@ E a serva, vendo-o
 Mas ele o negou outra vez. E pouco depois, os que ali estavam disseram outra vez a Pedro: “Verdadeiramente tu és um 
 deles; pois também és galileu
 {tr|rp}, e tua fala é semelhante
-}”.
+”.
 {trnc}\fn
 {trnc}N4 não contém “e tua fala é semelhante”
 {trnc}\*fn

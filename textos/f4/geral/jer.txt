@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Jeremias
 \*name-long
 \name-short
@@ -613,9 +613,9 @@ Corrige-te, Jerusalém, para que minha alma não se afaste de ti, para que eu n�
 \v Jr.6.9
 Assim diz o SENHOR dos exércitos: Sacudirão por completo o restante de Israel tal como a vide; volta tua mão aos cestos como alguém que colhe uvas.
 \v Jr.6.10
-A quem falarei e testemunharei, para que ouçam? Eis que que seus ouvidos são incircuncisos, e não podem escutar; eis que a palavra do SENHOR lhes é coisa vergonhosa, não gostam dela.
+A quem falarei e testemunharei, para que ouçam? Eis que seus ouvidos são incircuncisos, e não podem escutar; eis que a palavra do SENHOR lhes é coisa vergonhosa, não gostam dela.
 \v Jr.6.11
-Por isso estou cheio dá fúria do SENHOR, 
+Por isso estou cheio da fúria do SENHOR, 
 \added
 e
 \*added
@@ -750,7 +750,7 @@ acabam provocando mais
 \*added
  a si mesmos, para vergonha de seus próprios rostos?
 \v Jr.7.20
-Por isso assim diz o Senhor DEUS: Eis que que minha ira e meu furor serão derramados sobre este lugar: sobre os homens, sobre os animais, sobre 
+Por isso assim diz o Senhor DEUS: Eis que minha ira e meu furor serão derramados sobre este lugar: sobre os homens, sobre os animais, sobre 
 as árvores do campo, e sobre os frutos da terra; e se acenderá, e não se apagará.
 \v Jr.7.21
 Assim diz o SENHOR dos exércitos, Deus de Israel: Acrescentai os vossos holocaustos aos vossos sacrifícios, e 
@@ -923,7 +923,7 @@ E cada um engana a seu amigo, e não falam a verdade; ensinaram sua língua a fa
 \v Jr.9.6
 Tua habitação é em meio ao engano; por meio do engano se negam a me conhecer, diz o SENHOR.
 \v Jr.9.7
-Portanto assim diz o SENHOR dos exércitos: Eis que que eu os fundirei, e os provarei; pois de que 
+Portanto assim diz o SENHOR dos exércitos: Eis que eu os fundirei, e os provarei; pois de que 
 \added
 outra maneira
 \*added
@@ -4674,9 +4674,9 @@ de bois
 \*added
 ; e contigo despedaçarei governadores e príncipes.
 \v Jr.51.24
-Mas retribuirei à Babilônia e a todos os moradores da Caldeia todo a sua maldade, que fizeram em Sião diante de vossos olhos, diz o SENHOR.
+Mas retribuirei à Babilônia e a todos os moradores da Caldeia toda a sua maldade, que fizeram em Sião diante de vossos olhos, diz o SENHOR.
 \v Jr.51.25
-Eis que eu sou contra ti, ó monte destruidor, que destróis toda a terra, diz o SENHOR, e estenderei minha mão contra ti, e te farei rolar das rochas, e te tonarei um monte queimado.
+Eis que eu sou contra ti, ó monte destruidor, que destróis toda a terra, diz o SENHOR, e estenderei minha mão contra ti, e te farei rolar das rochas, e te tornarei um monte queimado.
 \v Jr.51.26
 E não tomarão de ti pedra para esquina, nem pedra para fundamentos; porque te tornarás em assolações perpétuas, diz o SENHOR.
 \v Jr.51.27

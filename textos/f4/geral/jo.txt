@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Jó
 \*name-long
 \name-short
@@ -78,7 +78,7 @@ E disse: Nu saí do ventre de minha mãe, e nu para lá voltarei. O SENHOR deu, 
 \v Jo.1.22
 Em tudo isto Jó não pecou, nem atribuiu a Deus falta alguma.
 \v Jo.2.1
-E veio outro dia em que os filhos de Deus vieram para se apresentarem diante do SENHOR, e e Satanás também veio entre eles para se apresentar diante do SENHOR.
+E veio outro dia em que os filhos de Deus vieram para se apresentarem diante do SENHOR, e Satanás também veio entre eles para se apresentar diante do SENHOR.
 \v Jo.2.2
 Então o SENHOR disse a Satanás: De onde vens? E Satanás respondeu ao SENHOR, e dizendo:  De rodear a terra, e de passear por ela.
 \v Jo.2.3

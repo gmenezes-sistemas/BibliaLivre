@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Neemias
 \*name-long
 \name-short
@@ -87,7 +87,7 @@ Quando então Sambalate, o horonita, e Tobias, o servo amonita, ouviram, desagra
 \v Ne.2.11
 Cheguei, pois, a Jerusalém, e fiquei ali três dias.
 \v Ne.2.12
-E de noite me levantei, eu e uns poucos homens comigo, e não declarei a ninguém o que Deus tinha posto em meu coração que fizesse em Jerusalém; e animal nenhum estava comigo, a não ser o o em que eu cavalgava.
+E de noite me levantei, eu e uns poucos homens comigo, e não declarei a ninguém o que Deus tinha posto em meu coração que fizesse em Jerusalém; e animal nenhum estava comigo, a não ser o em que eu cavalgava.
 \v Ne.2.13
 E de noite saí pela porta do Vale até a fonte do Dragão e à porta do Esterco; e observei os muros de Jerusalém que estavam fendidos, e suas portas estavam consumidas a fogo.
 \v Ne.2.14
@@ -661,7 +661,7 @@ E Jesua, Bani, Cadmiel, Serebias, Buni, Sebanias, Bani e Quenai, se puseram de p
 \v Ne.9.5
 E os levitas Jesua, Cadmiel, Bani, Hasbaneias, Serebias, Hodias, Sebanias e Petaías, disseram: Levantai-vos, bendizei ao SENHOR vosso Deus para todo o sempre: Bendito o teu glorioso nome, que está exaltado sobre toda bênção e louvor. 
 \v Ne.9.6
-Tu és o único, SENHOR! Tu fizeste o céu, o céu dos céus, e toda o seu exército; a terra e tudo quanto nela há; os mares e tudo quanto neles há; e tu vivificas a todos; os exércitos dos céus te adoram.
+Tu és o único, SENHOR! Tu fizeste o céu, o céu dos céus, e todo o seu exército; a terra e tudo quanto nela há; os mares e tudo quanto neles há; e tu vivificas a todos; os exércitos dos céus te adoram.
 \v Ne.9.7
 Tu és, SENHOR, o Deus que escolheste a Abrão, e o tiraste de Ur dos caldeus, e puseste nele o nome Abraão;
 \v Ne.9.8
@@ -763,7 +763,7 @@ Daniel, Ginetom, Baruque,
 \v Ne.10.7
 Mesulão, Abias, Miamim,
 \v Ne.10.8
-Maazias, Bilgai, Semaías: estes eram o sacerdotes.
+Maazias, Bilgai, Semaías: estes eram os sacerdotes.
 \v Ne.10.9
 E os Levitas: Jesua filho de Azanias, Binui dos filhos de Henadade, Cadmiel;
 \v Ne.10.10
@@ -831,7 +831,7 @@ Também lançamos as sortes entre os sacerdotes, os levitas, e o povo, acerca da
 \v Ne.10.35
 E que a cada ano traríamos as primícias de nossa terra, e todos os primeiros frutos de toda árvore, para a casa de SENHOR;
 \v Ne.10.36
-E também os primogênitos de nossos filhos e de nossas animais, como está escrito na lei; e que traríamos os primogênitos de nossas vacas e de nossas ovelhas à casa de nosso Deus, aos sacerdotes que ministram na casa de nosso Deus;
+E também os primogênitos de nossos filhos e de nossos animais, como está escrito na lei; e que traríamos os primogênitos de nossas vacas e de nossas ovelhas à casa de nosso Deus, aos sacerdotes que ministram na casa de nosso Deus;
 \v Ne.10.37
 E que traríamos as primícias de nossas massas, e nossas ofertas alçadas, e do fruto de toda árvore, do suco de uva e do azeite, aos sacerdotes, às câmaras da casa de nosso Deus, e os dízimos de nossa terra aos levitas; e que os levitas receberiam os dízimos em todas as cidades onde trabalhamos.
 \v Ne.10.38
@@ -845,7 +845,7 @@ E o povo abençoou a todos os homens que voluntariamente se ofereceram para habi
 \v Ne.11.3
 E estes são os chefes da província que habitaram em Jerusalém (porém os israelitas, os sacerdotes e os levitas, os servos do templo, e os filhos dos servos de Salomão, nas cidades de Judá, habitaram cada um em sua possessão, em suas cidades).
 \v Ne.11.4
-Habitaram, pois, em Jerusalém , 
+Habitaram, pois, em Jerusalém, 
 \added
 alguns
 \*added

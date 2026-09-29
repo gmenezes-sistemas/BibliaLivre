@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Amós
 \*name-long
 \name-short
@@ -23,7 +23,7 @@ seu castigo
 \v Am.1.4
 Por isso meterei fogo na casa de Hazael, que consumirá os palácios de Ben-Hadade.
 \v Am.1.5
-E quebrarei o ferrolho de Damasco, e exterminarei o morador do vale de Áven, e o dono do cetro de de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir, diz o SENHOR.
+E quebrarei o ferrolho de Damasco, e exterminarei o morador do vale de Áven, e o dono do cetro de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir, diz o SENHOR.
 \v Am.1.6
 Assim diz o SENHOR: Por três transgressões de Gaza, e pela quarta, não desviarei 
 \added

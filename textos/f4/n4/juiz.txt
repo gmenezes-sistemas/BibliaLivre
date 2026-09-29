@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Livro dos Juízes
 \*name-long
 \name-short
@@ -1288,7 +1288,7 @@ Então os homens de Israel deram meia-volta, e os de Benjamim encheram-se de tem
 vindo sobre eles.
 \v Jz.20.42
 Eles, pois, voltaram-se de costas diante de Israel até o caminho do deserto; mas o exército os alcançou, e 
-os que saíam das das cidade os matavam no meio deles.
+os que saíam das cidades os matavam no meio deles.
 \v Jz.20.43
 Assim cercaram os de Benjamim, e os perseguiram e os exterminaram
 \fn

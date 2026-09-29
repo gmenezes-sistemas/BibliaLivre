@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Evangelho Segundo João
 \*name-long
 \name-short
@@ -1376,7 +1376,7 @@ E ele disse: “Creio, Senhor”; e o adorou.
 \v Joao.9.39
 E Jesus disse: “Eu vim a este mundo para julgamento, para que os que não veem vejam; e os que veem fiquem cegos”.
 \v Joao.9.40
-E uns dos dos fariseus que estavam com ele ouviram isso e lhe disseram: “Acaso também nós somos cegos?”
+E uns dos fariseus que estavam com ele ouviram isso e lhe disseram: “Acaso também nós somos cegos?”
 \v Joao.9.41
 Jesus lhes disse: “Se vós fôsseis cegos, não teríeis pecado; mas, como agora dizeis: ‘Vemos’; por isso o vosso 
 pecado permanece.
@@ -2136,7 +2136,9 @@ falará tudo o que ouvir; e vos anunciará as coisas que hão de vir.
 \v Joao.16.14
 Ele me glorificará, porque receberá do 
 \added
-que é meu, e 
+que é
+\*added
+ meu, e 
 \added 
  o
 \*added

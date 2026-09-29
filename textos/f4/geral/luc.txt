@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Evangelho Segundo Lucas
 \*name-long
 \name-short
@@ -2137,7 +2137,7 @@ vestido e em pleno juízo, sentado aos pés de Jesus; e temeram.
 \v Lc.8.36
 E os que tinham visto contaram-lhes também como aquele endemoninhado havia sido liberto.
 \v Lc.8.37
-E toda o povo da terra dos gadarenos ao redor lhe rogou que se retirasse deles; porque foram tomados por grande temor. 
+E todo o povo da terra dos gadarenos ao redor lhe rogou que se retirasse deles; porque foram tomados por grande temor. 
 Então ele entrou no barco e voltou.
 \v Lc.8.38
 E aquele homem, de quem os demônios tinham saído, rogou-lhe para que lhe permitisse estar com ele; 
@@ -2708,7 +2708,7 @@ porque um amigo meu chegou de viagem até mim, e nada tenho para lhe oferecer’
 E ele de dentro, respondendo, disser: ‘Não me perturbes! A porta já está fechada, e meus filhos estão comigo na cama; 
 não posso me levantar para te dar’.
 \v Lc.11.8
-Eu vos digo que, ainda que não se levante para lhe dar por seu seu amigo, contudo, por sua persistência ele se 
+Eu vos digo que, ainda que não se levante para lhe dar por ser seu amigo, contudo, por sua persistência ele se 
 levantará, e lhe dará tudo quanto ele precisar.
 \v Lc.11.9
 E eu vos digo: pedi, e vos será dado; buscai, e achareis; batei, e vos será aberto.
@@ -2811,7 +2811,7 @@ A rainha do Sul se levantará em juízo com as pessoas desta geração, e as con
 para ouvir a sabedoria de Salomão; e eis aqui quem é maior que Salomão.
 \v Lc.11.32
 As pessoas de Nínive se levantarão em juízo com esta geração, e a condenarão; pois com a pregação de Jonas se 
-converteram; e eis aquie quem é maior que Jonas.
+converteram; e eis aqui quem é maior que Jonas.
 \v Lc.11.33
 E ninguém, quando acende a lâmpada, 
 \added
@@ -2828,7 +2828,7 @@ mau, também
 \added
 todo
 \*added
- teu o corpo será cheio de trevas.
+ teu corpo será cheio de trevas.
 \v Lc.11.35
 Olha, pois, que a luz que há em ti não sejam trevas.
 \v Lc.11.36
@@ -2861,7 +2861,7 @@ Insensatos! Aquele que fez o exterior não fez também o interior?
 \v Lc.11.41
 Antes, dai por esmola o que vós tendes; e eis que tudo vos será limpo.
 \v Lc.11.42
-Mais ai de vós, fariseus, que dais o dízimo da hortelã, da arruda, e de toda hortaliça; e desprezais a justiça e o amor 
+Mas ai de vós, fariseus, que dais o dízimo da hortelã, da arruda, e de toda hortaliça; e desprezais a justiça e o amor 
 de Deus. Estas coisas devíeis fazer, sem deixar as outras.
 \v Lc.11.43
 Ai de vós, fariseus, que amais os primeiros assentos nas sinagogas, e as saudações nas praças.
@@ -2887,7 +2887,8 @@ Ai de vós, que construís os sepulcros dos profetas, e vossos pais os mataram.
 Assim vós dais testemunho de que aprovais as obras de vossos pais; porque eles os mataram, e vós construís 
 \added
 seus sepulcros
-\*added.
+\*added
+.
 \v Lc.11.49
 Por isso, a sabedoria de Deus também diz: ‘Eu lhes mandarei profetas e apóstolos; e deles, 
 \added
@@ -3333,7 +3334,7 @@ Lit. ele
  tomando aquele homem,
 \fn
 Lit. tomando-o
-\fn
+\*fn
  curou-o, e o despediu.
 \v Lc.14.5
 E ele
@@ -4279,7 +4280,7 @@ E o segundo
 {trnc}\*fn
 {n4},
 \v Lc.20.31
-E o terceiro casou-se com ela, e assim também os sete, e e morreram semm deixar filhos.
+E o terceiro casou-se com ela, e assim também os sete, e morreram sem deixar filhos.
 \v Lc.20.32
 E por fim, depois de todos, morreu também a mulher.
 \v Lc.20.33
@@ -4330,7 +4331,7 @@ que devoram as casas das viúvas, e, como pretexto, fazem longas orações. Este
 E 
 \added
 Jesus
-*added
+\*added
 , olhando, viu os ricos lançarem suas ofertas na arca do tesouro 
 \added
 do Templo

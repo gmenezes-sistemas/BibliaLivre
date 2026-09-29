@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Primeiro Livro dos Reis
 \*name-long
 \name-short
@@ -115,7 +115,7 @@ Então se estremeceram, e levantaram-se todos os convidados que estavam com Adon
 \v 1Rs.1.50
 Mas Adonias, temendo da presença de Salomão, levantou-se e foi-se, e agarrou as pontas do altar.
 \v 1Rs.1.51
-E foi feito saber a Salomão, dizendo: Eis que que Adonias tem medo do rei Salomão: pois agarrou as pontas do altar, dizendo: Jure-me hoje o rei Salomão que não matará à espada a seu servo.
+E foi feito saber a Salomão, dizendo: Eis que Adonias tem medo do rei Salomão: pois agarrou as pontas do altar, dizendo: Jure-me hoje o rei Salomão que não matará à espada a seu servo.
 \v 1Rs.1.52
 E Salomão disse: Se ele for virtuoso, nenhum de seus cabelos cairá em terra: mas se se achar mal nele, morrerá.
 \v 1Rs.1.53
@@ -294,7 +294,7 @@ E uma noite o filho desta mulher morreu, porque ela se deitou sobre ele.
 \v 1Rs.3.20
 E levantou-se à meia noite, e tomou a meu filho de junto a mim, estando eu tua serva dormindo, e o pôs a seu lado, e pôs a meu lado seu filho morto.
 \v 1Rs.3.21
-E quando eu me levantei pela manhã para dar o peito a meu filho, eis que que estava morto: mas observei-lhe pela manhã, e vi que não era meu filho, que eu havia dado à luz.
+E quando eu me levantei pela manhã para dar o peito a meu filho, eis que estava morto: mas observei-lhe pela manhã, e vi que não era meu filho, que eu havia dado à luz.
 \v 1Rs.3.22
 Então a outra mulher disse: Não; meu filho é o que vive, e teu filho é o morto. E a outra voltou a dizer: Não; teu filho é o morto, e meu filho é o que vive. Assim falavam diante do rei.
 \v 1Rs.3.23
@@ -954,7 +954,7 @@ Aconteceu pois naquele tempo, que saindo Jeroboão de Jerusalém, encontrou-lhe 
 \v 1Rs.11.30
 E segurando Aías da capa nova que tinha sobre si, rompeu-a em doze pedaços,
 \v 1Rs.11.31
-E disse a Jeroboão: Toma para ti os dez pedaços; porque assim disse o SENHOR Deus de Israel: Eis que que eu rompo o reino da mão de Salomão, e a ti darei dez tribos;
+E disse a Jeroboão: Toma para ti os dez pedaços; porque assim disse o SENHOR Deus de Israel: Eis que eu rompo o reino da mão de Salomão, e a ti darei dez tribos;
 \v 1Rs.11.32
 (E ele terá uma tribo, por amor de Davi meu servo, e por amor de Jerusalém, cidade que eu escolhi de todas as tribos de Israel:)
 \v 1Rs.11.33
@@ -1050,7 +1050,7 @@ E eis que um homem de Deus por palavra do SENHOR veio de Judá a Betel; e estand
 \v 1Rs.13.2
 Ele clamou contra o altar por palavra do SENHOR, e disse: Altar, altar, assim disse o SENHOR: Eis que à casa de Davi nascerá um filho, chamado Josias, o qual sacrificará sobre ti aos sacerdotes dos altos que queimam sobre ti incenso; e sobre ti queimarão ossos humanos.
 \v 1Rs.13.3
-E aquele mesmo dia deu um sinal, dizendo: Esta é o sinal de que o SENHOR falou: eis que que o altar se quebrará, e a cinza que sobre ele está se derramará.
+E aquele mesmo dia deu um sinal, dizendo: Este é o sinal de que o SENHOR falou: eis que o altar se quebrará, e a cinza que sobre ele está se derramará.
 \v 1Rs.13.4
 E quando o rei Jeroboão ouviu a palavra do homem de Deus, que havia clamado contra o altar de Betel, estendendo sua mão desde o altar, disse: Prendei-lhe! Mas a mão que havia estendido contra ele, se lhe secou, que não a pôde voltar a si.
 \v 1Rs.13.5

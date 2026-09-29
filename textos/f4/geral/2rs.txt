@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Segundo Livro dos Reis
 \*name-long
 \name-short
@@ -1340,7 +1340,7 @@ E subiu o rei à casa do SENHOR com todos os homens de Judá, e com todos os mor
 \v 2Rs.23.3
 E pondo-se o rei em pé junto à coluna, fez aliança diante do SENHOR, de que seguiriam o SENHOR, e guardariam seus mandamentos, e seus testemunhos, e seus estatutos, com todo o coração e com toda a alma, e que cumpririam as palavras da aliança que estavam escritas naquele livro. E todo o povo confirmou o pacto.
 \v 2Rs.23.4
-Então mandou el rei ao sumo sacerdote Hilquias, e aos sacerdotes de segunda ordem, e aos guardiões da porta, que tirassem do templo do SENHOR todos os vasos que haviam sido feitos para Baal, e para o bosque, e para toda o exército do céu; e queimou-os fora de Jerusalém no campo de Cedrom, e fez levar as cinzas deles a Betel.
+Então mandou el rei ao sumo sacerdote Hilquias, e aos sacerdotes de segunda ordem, e aos guardiões da porta, que tirassem do templo do SENHOR todos os vasos que haviam sido feitos para Baal, e para o bosque, e para todo o exército do céu; e queimou-os fora de Jerusalém no campo de Cedrom, e fez levar as cinzas deles a Betel.
 \v 2Rs.23.5
 E tirou aos sacerdotes pagãos, que haviam posto os reis de Judá para que queimassem incenso nos altos nas cidades de Judá, e nos arredores de Jerusalém; e também aos que queimavam incenso a Baal, ao sol e à lua, e às constelações, e a todo o exército do céu.
 \v 2Rs.23.6

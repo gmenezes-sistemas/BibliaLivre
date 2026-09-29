@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Evangelho Segundo Mateus
 \*name-long
 \name-short
@@ -1777,7 +1777,7 @@ Naquele tempo Herodes, o tetrarca, ouviu falar da fama de Jesus,
 \v Mt.14.2
 e disse aos seus servos: “Esse é João Batista; ressuscitou dos mortos, e por isso esses milagres operam nele”.
 \v Mt.14.3
-Pois Herodes havia prendido João, e o tinha acorrrentado e encarcerado na prisão, por causa de Herodias, mulher do 
+Pois Herodes havia prendido João, e o tinha acorrentado e encarcerado na prisão, por causa de Herodias, mulher do 
 seu irmão Filipe;
 \v Mt.14.4
 porque João lhe dizia: “Não te é lícito que tu a tenhas por mulher”.

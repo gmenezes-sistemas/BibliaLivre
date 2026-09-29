@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Segundo Livro de Crônicas
 \*name-long
 \name-short
@@ -452,7 +452,7 @@ E as iguarias de sua mesa, e o assento de seus servos, e o estado de seus criado
 \v 2Cr.9.5
 E disse ao rei: Verdade é o que havia ouvido em minha terra de tuas coisas e de tua sabedoria;
 \v 2Cr.9.6
-Mas eu não cria as palavras deles, até que ei vindo, e meus olhos viram: e eis que que nem ainda a metade da grandeza de tua sabedoria me havia sido dita; porque tu excedes a fama que eu havia ouvido.
+Mas eu não cria as palavras deles, até que vim, e meus olhos viram: e eis que nem ainda a metade da grandeza de tua sabedoria me havia sido dita; porque tu excedes a fama que eu havia ouvido.
 \v 2Cr.9.7
 Bem-aventurados teus homens, e ditosos estes teus servos, que estão sempre diante de ti, e ouvem tua sabedoria.
 \v 2Cr.9.8
@@ -1132,7 +1132,7 @@ Jorão contra Jeú, filho de Ninsi, ao quem o SENHOR havia ungido para extermina
 E aconteceu que, quando Jeú executava juízo contra a casa de Acabe, encontrou os príncipes de Judá, e os filhos dos 
 irmãos de Acazias, que serviam a Acazias, e os matou.
 \v 2Cr.22.9
-E buscando a Acazias, o qual se havia escondido em Samaria, tomaram-no, e trouxeram-no a Jeú, e lhe mataram; e deram-lhe sepultura, porque disseram: É filho de Josafá, o qual buscou ao SENHOR de todo seu coração. E a casa de Acazias não tinha forças para para manter o reino.
+E buscando a Acazias, o qual se havia escondido em Samaria, tomaram-no, e trouxeram-no a Jeú, e lhe mataram; e deram-lhe sepultura, porque disseram: É filho de Josafá, o qual buscou ao SENHOR de todo seu coração. E a casa de Acazias não tinha forças para manter o reino.
 \v 2Cr.22.10
 Então Atalia mãe de Acazias, vendo que seu filho era morto, levantou-se e destruiu toda a descendência real da casa de Judá.
 \v 2Cr.22.11

@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Apocalipse de João
 \*name-long
 \name-short
@@ -169,7 +169,7 @@ Mas isto tu tens: que odeias as obras dos nicolaítas, as quais eu também odeio
 Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer, eu lhe darei de comer da árvore da vida, que está no meio do paraíso de Deus.
 \v Ap.2.8
 “E escreve ao anjo da igreja dos de Esmirna: 
-“Isto diz o o primeiro e o último, que foi morto, e vive:
+“Isto diz o primeiro e o último, que foi morto, e vive:
 \v Ap.2.9
 “Eu conheço tuas obras, e aflição, e pobreza (mas tu és rico) e a blasfêmia dos que dizem serem judeus, e não 
 são, mas 
@@ -1739,7 +1739,7 @@ E eu vi um novo céu e uma nova terra; porque o primeiro céu e a primeira terra
 \added
 já
 \*added
- passaram; e e 
+ passaram; e 
 \added
 já
 \*added

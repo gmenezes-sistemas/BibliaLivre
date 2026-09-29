@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Provérbios de Salomão
 \*name-long
 \name-short
@@ -2245,7 +2245,7 @@ vem
 \added
 bom
 \*added
- nome do que muitas riquezas; e ser favorecido é melhor que a prata e o o ouro.
+ nome do que muitas riquezas; e ser favorecido é melhor que a prata e o ouro.
 \v Prv.22.2
 O rico e o pobre se encontram; todos eles foram feitos pelo SENHOR.
 \v Prv.22.3
@@ -2309,7 +2309,7 @@ para que tua confiança esteja no SENHOR, eu as ensino a ti hoje.
 \v Prv.22.20
 Por acaso não te escrevi excelentes
 \fn
-obuscuro - trad. alt. trinta
+obscuro - trad. alt. trinta
 \*fn
  coisas sobre o conselho e o conhecimento,
 \v Prv.22.21
@@ -2418,7 +2418,7 @@ faze o mesmo com
 \v Prv.23.24
 O pai do justo muito se alegrará; aquele que gerar o sábio se encherá de alegria por causa dele.
 \v Prv.23.25
-Teu pai e tua mãe se alegrarão; aquela te te gerou se encherá de alegria.
+Teu pai e tua mãe se alegrarão; aquela que te gerou se encherá de alegria.
 \v Prv.23.26
 Meu filho, dá para mim teu coração, e que teus olhos prestem atenção em meus caminhos.
 \v Prv.23.27

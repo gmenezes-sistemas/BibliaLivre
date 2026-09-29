@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Habacuque
 \*name-long
 \name-short
@@ -63,9 +63,9 @@ executar
 \v Hab.1.13
 Teus olhos são puros demais para veres o mal, e não podes observar a opressão; ora, por que olharias aos enganadores, e calarias quando o perverso devora ao mais justo que ele?
 \v Hab.1.14
-Tornarias as pessoas como como os peixes do mar, como répteis que não têm quem os governe?
+Tornarias as pessoas como os peixes do mar, como répteis que não têm quem os governe?
 \v Hab.1.15
-Ele tira a todos com anzol, em sua malha os ajunta, e os colhe em seu rede; por isso ele se alegra e tem prazer.
+Ele tira a todos com anzol, em sua malha os ajunta, e os colhe em sua rede; por isso ele se alegra e tem prazer.
 \v Hab.1.16
 Por isso ele faz sacrifícios à sua malha, e oferece incensos à sua rede; porque com elas enriqueceu sua porção, e engordou sua comida.
 \v Hab.1.17

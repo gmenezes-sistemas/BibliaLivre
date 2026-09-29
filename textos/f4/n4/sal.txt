@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Livro dos Salmos
 \*name-long
 \name-short
@@ -7489,11 +7489,12 @@ milhares em nossos campos.
 Nossos bois sejam fortes para o trabalho; não haja nem brechas 
 \added
 nos muros
-\*added,
-\fn
+\*added
 , nem saídas 
 \added
- ao cativeiro,
+ao cativeiro
+\*added
+,
 \fn
 Obscuro. Lit. “saídas”. Trad. alt. “fugas”
 \*fn

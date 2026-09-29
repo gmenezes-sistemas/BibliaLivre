@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Ezequiel
 \*name-long
 \name-short
@@ -635,7 +635,7 @@ Quanto à aparência delas, as quatro tinham uma mesma forma, como se estivesse 
 \v Ez.10.11
 Quando se moviam, movimentavam-se sobre seus quatro lados; não se viravam quando moviam, mas para o lugar aonde se voltava a cabeça, iam atrás; nem se viravam quando moviam.
 \v Ez.10.12
-E toda o seu corpo, suas costas, suas mãos, suas asas, e as rodas, estavam cheias de olhos ao redor; os quatro tinham suas rodas.
+E todo o seu corpo, suas costas, suas mãos, suas asas, e as rodas, estavam cheias de olhos ao redor; os quatro tinham suas rodas.
 \v Ez.10.13
 Quanto às rodas, eu ouvi que foram chamadas de “roda giratória”.
 \v Ez.10.14
@@ -2405,7 +2405,7 @@ Os mercadores nos povos assoviam por causa de ti; tu te tornaste em motivo de es
 \v Ez.28.1
 E veio a mim a palavra do SENHOR, dizendo:
 \v Ez.28.2
-Filho do homem, dize ao príncipe de Tiro: Assim diz o Senhor DEUS:  Dado que teu coração se exalta, e dizes:  Eu sou um deus; no trono de de Deus me sento no meio dos mares (sendo tu homem e não Deus); e consideras teu coração como coração de Deus;
+Filho do homem, dize ao príncipe de Tiro: Assim diz o Senhor DEUS:  Dado que teu coração se exalta, e dizes:  Eu sou um deus; no trono de Deus me sento no meio dos mares (sendo tu homem e não Deus); e consideras teu coração como coração de Deus;
 \v Ez.28.3
 (Eis que tu és mais sábio que Daniel; não há segredo algum que possa se esconder de ti; 
 \fn

@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Primeiro Livro de Crônicas
 \*name-long
 \name-short
@@ -441,7 +441,7 @@ alguns
 \v 1Cr.4.43
 E mataram os que haviam restado dos amalequitas, e habitaram ali até hoje.
 \v 1Cr.5.1
-Quanto aos filhos de Rúben, primogênito de Israel (porque ele era o primogênito, mas como profanou a cama de de seu pai, seu direito de primogenitura foi dado aos filhos de José, filho de Israel; e não foi contado por primogênito.
+Quanto aos filhos de Rúben, primogênito de Israel (porque ele era o primogênito, mas como profanou a cama de seu pai, seu direito de primogenitura foi dado aos filhos de José, filho de Israel; e não foi contado por primogênito.
 \v 1Cr.5.2
 Pois Judá foi o mais poderoso sobre seus irmãos, e o líder veio dele; mas o direito de primogenitura pertenceu a José).
 \v 1Cr.5.3
@@ -1252,7 +1252,7 @@ e
 \*added
  com todos os chefes.
 \v 1Cr.13.2
-E Davi disse a todo a congregação de Israel: Se bem vos parece, e se vem do SENHOR nosso Deus, enviemos depressa 
+E Davi disse a toda a congregação de Israel: Se bem vos parece, e se vem do SENHOR nosso Deus, enviemos depressa 
 \added
 mensageiros
 \*added

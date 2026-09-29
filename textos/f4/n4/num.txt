@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Números
 \*name-long
 \name-short
@@ -1404,7 +1404,7 @@ E aconteceu, que em acabando ele de falar todas estas palavras, rompeu-se a terr
 \v Nm.16.32
 E abriu a terra sua boca, e tragou-os a eles, e a suas casas, e a todos os homens de Coré, e a todos os seus pertences.
 \v Nm.16.33
-E eles, com tudo o que tinham, desceram vivos ao Xeol, a a terra os cobriu, e pereceram do meio da congregação.
+E eles, com tudo o que tinham, desceram vivos ao Xeol, e a terra os cobriu, e pereceram do meio da congregação.
 \v Nm.16.34
 E todo Israel, os que estavam em derredor deles, fugiram ao grito deles; porque diziam: Não nos trague também a terra.
 \v Nm.16.35

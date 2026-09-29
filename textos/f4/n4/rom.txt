@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Carta de Paulo aos Romanos
 \*name-long
 \name-short
@@ -1784,7 +1784,7 @@ ao conhecimento
 \*added
  de todos. Por isso eu me alegro por vossa causa; quero, porém, que sejais sábios no bem, e inocentes quanto ao mal.
 \v Rm.16.20
-E o Deus de paz esmagará Satanás em pedaços debaixo dos vossos pés. A graça de nosso Senhor Jesus}
+E o Deus de paz esmagará Satanás em pedaços debaixo dos vossos pés. A graça de nosso Senhor Jesus
  seja convosco.
 \v Rm.16.21
 Saúdam-vos o meu cooperador Timóteo, e os meus parentes

@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Atos dos Apóstolos
 \*name-long
 \name-short
@@ -599,7 +599,7 @@ pórtico de Salomão.
 \v At.5.13
 Mas, dos outros, ninguém ousava ajuntar-se a eles; porém o povo os estimava em grande maneira.
 \v At.5.14
-E a multidão dos que que criam no Senhor, tanto de homens como de mulheres, crescia cada vez mais.
+E a multidão dos que criam no Senhor, tanto de homens como de mulheres, crescia cada vez mais.
 \v At.5.15
 De maneira que traziam os enfermos às ruas, e os colocavam em camas e macas, para que Pedro, passando, ao menos sua 
 sombra cobrisse alguns deles.
@@ -1316,7 +1316,7 @@ Este está hospedado com um Simão curtidor, cuja casa é junto ao mar
 TR contém adicionalmente “ele te dirá o que deves fazer” ao fim do versículo 
 \*fn
 \v At.10.7
-E e quando se foi o anjo que 
+E quando se foi o anjo que 
 lhe falava, 
 \added
 Cornélio

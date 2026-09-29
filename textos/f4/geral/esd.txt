@@ -1,4 +1,4 @@
-﻿\name-long
+\name-long
 Esdras
 \*name-long
 \name-short
@@ -107,7 +107,7 @@ Os filhos de Harim, trezentos e vinte;
 \v Esd.2.33
 Os filhos de Lode, Hadide, e Ono, setecentos e vinte e cinco;
 \v Esd.2.34
-Os filhos de de Jericó, trezentos e quarenta e cinco;
+Os filhos de Jericó, trezentos e quarenta e cinco;
 \v Esd.2.35
 Os filhos de Senaá, três mil seiscentos e trinta;
 \v Esd.2.36
